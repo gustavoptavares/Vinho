@@ -20,7 +20,7 @@ Vamos analisar os dados o conjunto de dados de análise química de vinhos. Com 
 
 ## O Processo
 
-O primeiro passo do projeto foi adquirir os dados. Utilizamos os dados do portal Kaagle, carregando-o no Google Colab, para a exploração e análise dos dados utilizando a linguagem de programação Python e suas bibliotecas, como Pandas, Matplotlib e Scikit-Learn. Foi feita análise exploratória, visualização dos dados, e foi aplicado o modelo de machine learning de clusterização, utilizando o algoritmo de kmeans para fazer agrupamento dos vinhos.
+O primeiro passo do projeto foi adquirir os dados. Utilizamos os dados do portal Kaagle, carregando-o no Google Colab, para a exploração e análise dos dados utilizando a linguagem de programação Python e suas bibliotecas, como Pandas, Matplotlib e Scikit-Learn. Foi feita análise exploratória, visualização dos dados, e foi aplicado o modelo preditivo de clusterização, utilizando o algoritmo de kmeans para fazer agrupamento dos vinhos de acordo com a análise química.
 
 ## Resultados
 
